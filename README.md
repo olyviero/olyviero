@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @olyviero
-- 👀 I’m interested in web design and development, graphic design, photography, video and 3d animation
-- 🌱 I’m currently learning how to be a fullstack react developer
-- 💞️ I’m looking to collaborate on creative pedagic projects
+- 👀 I’m interested in web design, development, graphic design, photography, video and 3d animation
+- 🌱 I’m currently working as a fullstack developer and web designer
+- 💞️ Always hapopy to talk about creative and pedagic projects
 - 📫 How to reach me : olyvier.com
 
 <!---
