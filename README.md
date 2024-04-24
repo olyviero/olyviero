@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [olyvier.com](olyvier.com)
 
-- 💬 Ask me about **How coding is great**
+- 💬 Ask me about **how I love coding**
 
 - 📫 How to reach me **olivierbalmie@gmail.com**
 
