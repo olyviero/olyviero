@@ -3,7 +3,7 @@
 <h3 align="center">A passionate fullstack developer from Lyon, France</h3>
 <img align="right" style="padding-left: 20px;" alt="Coding chill" width="400" src="https://i.pinimg.com/originals/54/c9/af/54c9af226721e95539a5cd9592d635bb.gif"/>
   
-- 🔭 I’m currently working on **Light tailored site builders for Prestashop and Wordpress**
+- 🔭 I’m currently working on **light tailored page builders for Prestashop and Wordpress**
 
 - 👨‍💻 All of my projects are available at [olyvier.com](olyvier.com)
 
