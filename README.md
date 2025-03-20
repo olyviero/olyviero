@@ -1,7 +1,7 @@
 ![Header](./header.png)
 
-<h1 align="center">Hi 👋, I'm Olivier</h1>
-<h3 align="center">A passionate fullstack developer from Lyon, France</h3>
+<h1 align="left">Hi 👋, I'm Olivier</h1>
+<h3 align="left">A passionate fullstack developer from Lyon, France</h3>
   
 - 🔭 I’m currently working on **light tailored page builders for Prestashop and Wordpress**
 
