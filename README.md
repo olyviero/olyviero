@@ -1,4 +1,4 @@
-![Header](./header-town.png)
+![Header](./header-town.jpg)
 
 <h1 align="left">Hi 👋, I'm Olivier</h1>
 <h3 align="left">A passionate fullstack developer from Lyon, France</h3>
