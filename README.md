@@ -1,9 +1,9 @@
-![Header](./header-town.jpg)
+![Header](./header-town.png)
 
 <h1 align="left">Hi 👋, I'm Olivier</h1>
 <h3 align="left">A passionate fullstack developer from Lyon, France</h3>
   
-- 🔭 I’m currently working on **light tailored page builders for Prestashop and Wordpress**
+- 🔭 I’m currently working on **A React Boilerplate**
 
 - 👨‍💻 All of my projects are available at [olyvier.com](olyvier.com)
 
