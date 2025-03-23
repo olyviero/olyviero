@@ -2,7 +2,6 @@
 
 - 🚀 I'm currently looking for a job or missions as a fullstack or frontend developer
 - ⚙️ I'm currently working on my portfolio
-- ⚡ I can do a handstand 3x3 rubbiks in less than a minute
 
 # 🌐 Socials
 
