@@ -43,6 +43,6 @@
 ![Unity](https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/blender-%23F5792A.svg?style=for-the-badge&logo=blender&logoColor=white)
 
-![](https://nirzak-streak-stats.vercel.app/?user=olyviero&theme=react&hide_border=false)<br/>
+<!-- ![](https://nirzak-streak-stats.vercel.app/?user=olyviero&theme=react&hide_border=false)<br/> -->
 
-![](https://github-profile-trophy.vercel.app/?username=olyviero&theme=radical&no-frame=false&no-bg=true&margin-w=12)
+<!-- ![](https://github-profile-trophy.vercel.app/?username=olyviero&theme=radical&no-frame=false&no-bg=true&margin-w=12) -->
